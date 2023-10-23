@@ -1,0 +1,10 @@
+C:\Users\betul\source\repos\TKM\bin\Debug\TKM.exe.config
+C:\Users\betul\source\repos\TKM\bin\Debug\TKM.exe
+C:\Users\betul\source\repos\TKM\bin\Debug\TKM.pdb
+C:\Users\betul\source\repos\TKM\obj\Debug\TKM.csproj.AssemblyReference.cache
+C:\Users\betul\source\repos\TKM\obj\Debug\TKM.Form1.resources
+C:\Users\betul\source\repos\TKM\obj\Debug\TKM.Properties.Resources.resources
+C:\Users\betul\source\repos\TKM\obj\Debug\TKM.csproj.GenerateResource.cache
+C:\Users\betul\source\repos\TKM\obj\Debug\TKM.csproj.CoreCompileInputs.cache
+C:\Users\betul\source\repos\TKM\obj\Debug\TKM.exe
+C:\Users\betul\source\repos\TKM\obj\Debug\TKM.pdb
