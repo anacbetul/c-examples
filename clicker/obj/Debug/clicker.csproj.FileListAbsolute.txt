@@ -1,0 +1,10 @@
+C:\Users\betul\source\repos\clicker\bin\Debug\clicker.exe.config
+C:\Users\betul\source\repos\clicker\bin\Debug\clicker.exe
+C:\Users\betul\source\repos\clicker\bin\Debug\clicker.pdb
+C:\Users\betul\source\repos\clicker\obj\Debug\clicker.csproj.AssemblyReference.cache
+C:\Users\betul\source\repos\clicker\obj\Debug\clicker.Form1.resources
+C:\Users\betul\source\repos\clicker\obj\Debug\clicker.Properties.Resources.resources
+C:\Users\betul\source\repos\clicker\obj\Debug\clicker.csproj.GenerateResource.cache
+C:\Users\betul\source\repos\clicker\obj\Debug\clicker.csproj.CoreCompileInputs.cache
+C:\Users\betul\source\repos\clicker\obj\Debug\clicker.exe
+C:\Users\betul\source\repos\clicker\obj\Debug\clicker.pdb
