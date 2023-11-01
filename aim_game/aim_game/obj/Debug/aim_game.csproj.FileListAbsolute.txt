@@ -1,0 +1,10 @@
+C:\Users\betul\Desktop\c# examples\aim_game\aim_game\bin\Debug\aim_game.exe.config
+C:\Users\betul\Desktop\c# examples\aim_game\aim_game\bin\Debug\aim_game.exe
+C:\Users\betul\Desktop\c# examples\aim_game\aim_game\bin\Debug\aim_game.pdb
+C:\Users\betul\Desktop\c# examples\aim_game\aim_game\obj\Debug\aim_game.csproj.AssemblyReference.cache
+C:\Users\betul\Desktop\c# examples\aim_game\aim_game\obj\Debug\aim_game.Form1.resources
+C:\Users\betul\Desktop\c# examples\aim_game\aim_game\obj\Debug\aim_game.Properties.Resources.resources
+C:\Users\betul\Desktop\c# examples\aim_game\aim_game\obj\Debug\aim_game.csproj.GenerateResource.cache
+C:\Users\betul\Desktop\c# examples\aim_game\aim_game\obj\Debug\aim_game.csproj.CoreCompileInputs.cache
+C:\Users\betul\Desktop\c# examples\aim_game\aim_game\obj\Debug\aim_game.exe
+C:\Users\betul\Desktop\c# examples\aim_game\aim_game\obj\Debug\aim_game.pdb
